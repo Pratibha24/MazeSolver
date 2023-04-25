@@ -1,0 +1,4 @@
+version: "1.0"
+info:
+  scaffold: EdgeP6
+  model: int-scaffold
